@@ -1,0 +1,64 @@
+/*NATIVE ELEMENTS*/
+
+body {
+  margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*REGULAR ELEMENTS*/
+
+.banner {
+  width: 100%;
+  height: 700px;
+}
+
+.container {
+  margin: 10px;
+  max-width: 1500px;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+.middleLogo {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  width: auto;
+  height: 100px;
+  top: 35px;
+}
+
+.nav-bar {
+  position: fixed;
+  width: 100%;
+  height: 100px;
+  background-color: #323232;
+  margin-top: -145px;
+  transition: all ease 400ms;
+}
+
+.show {
+  margin-top: -10px;
+}
